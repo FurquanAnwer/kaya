@@ -1,7 +1,7 @@
 import {View,Text} from "react-native";
 
-export default function explore(){
+export default function account(){
     return <View>
-        <Text>Explore page!</Text>
+        <Text>Account page!</Text>
     </View>
 }

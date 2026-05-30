@@ -1,7 +1,7 @@
 import {View,Text} from "react-native";
 
-export default function explore(){
+export default function foryou(){
     return <View>
-        <Text>Explore page!</Text>
+        <Text>For you page!</Text>
     </View>
 }
